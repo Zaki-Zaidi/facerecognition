@@ -1,1 +1,1 @@
-# In this section, we are going to implement face recognition using OpenCV and Python. OpenCV is a video and image processing library and it is used for image and video analysis, like facial detection, license plate reading, photo editing, advanced robotic vision, and many more
+# In this, we are going to implement face recognition using OpenCV and Python. OpenCV is a video and image processing library and it is used for image and video analysis, like facial detection, license plate reading, photo editing, advanced robotic vision, and many more
